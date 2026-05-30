@@ -1,6 +1,6 @@
 # Hey, I'm Hαzε 👾
 
-German transfem dev · she/her · Writing code for the games I'm already too deep into
+German transfem dev  & CS student · she/her · Writing code for the games I'm already too deep into
 
 ---
 
