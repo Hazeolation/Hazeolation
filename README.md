@@ -6,14 +6,9 @@ German transfem dev · she/her · Writing code for the games I'm already too dee
 
 ## 📊 By the Numbers
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hazeolation&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="stats" />
-</p>
+![Metrics](github-metrics.svg)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Hazeolation&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazeolation&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="languages" />
 </p>
 
 ---
